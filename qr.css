@@ -1,0 +1,54 @@
+body {
+    background-image: linear-gradient(to right, #0044c9, #4b4ed1, #6e58d9, #8a64e0, #a470e8);
+}
+
+
+
+.card {
+    width:352px;
+    height:442px;
+    position: relative;
+    left:35%;
+    color:white;
+    top:30px;
+    background-image: linear-gradient(to right, #284342, #2d6261, #2c8281, #24a5a4, #00c8c8);
+}
+
+.card-body {
+    border-radius:20px !important;
+}
+
+.button{
+    position: relative;
+    top:40px;
+  
+}
+
+input {
+    position: relative;
+    top:30px;
+}
+
+.btn-primary {
+    border-radius: 35% !important;
+    background-color:black !important;
+    border: thin solid transparent !important;
+}
+
+img {
+    transform-origin: 65% 75% !important;  transition: transform 1s, filter .5s ease-out !important;
+}
+
+.card-footer {
+    color:white !important;
+    background-color:black !important;
+    display:none;
+    transition: all .20s ease-in !important;
+}
+
+#Qr {
+    text-align: center !important;
+}
+   
+    
+
